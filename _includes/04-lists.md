@@ -1,0 +1,5 @@
+- This is an ordered list of my favorite things to do
+    - Reading books
+    - Learning new skills
+    - Changing the world
+    - Becoming the better version everyday
